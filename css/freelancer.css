@@ -18,16 +18,16 @@
   --red: #dc3545;
   --orange: #fd7e14;
   --yellow: #ffc107;
-  --green: #28a745;
-  --teal: #1abc9c;
+  --green: #a365c3;
+  --teal: #a365c3;
   --cyan: #17a2b8;
   --white: #fff;
   --gray: #6c757d;
   --gray-dark: #343a40;
-  --primary: #1abc9c;
+  --primary: #a365c3;
   --secondary: #2c3e50;
-  --success: #28a745;
-  --info: #17a2b8;
+  --success: #a365c3;
+  --info: #a365c3;
   --warning: #ffc107;
   --danger: #dc3545;
   --light: #f8f9fa;
@@ -159,13 +159,19 @@ sup {
 }
 
 a {
-  color: #1abc9c;
+  color: #a365c3;
   text-decoration: none;
   background-color: transparent;
+  /* color: #e0bde9;
+  color: #e384ef;
+  color: #a365c3;
+  color: #754195;
+  color: #36185a;
+  color: #5a1b59 ; */
 }
 
 a:hover {
-  color: #117964;
+  color: #a365c3;
   text-decoration: underline;
 }
 
@@ -2262,8 +2268,8 @@ fieldset:disabled a.btn {
 
 .btn-primary:hover {
   color: #fff;
-  background-color: #159a80;
-  border-color: #148f77;
+  background-color: #a365c3;
+  border-color: #a365c3;
 }
 
 .btn-primary:focus, .btn-primary.focus {
